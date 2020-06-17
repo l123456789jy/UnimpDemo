@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/media-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d4cbeb0a46a0af44459ef1544c19f5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d4cbeb0a46a0af44459ef1544c19f5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d4cbeb0a46a0af44459ef1544c19f5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d4cbeb0a46a0af44459ef1544c19f5/jars/libs/danmaku-flame-0.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d4cbeb0a46a0af44459ef1544c19f5/jars/libs/ijkplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

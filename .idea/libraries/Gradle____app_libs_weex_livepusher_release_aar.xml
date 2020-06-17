@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/weex_livepusher-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/802965ace16ca08f1e5257443341c628/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/802965ace16ca08f1e5257443341c628/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/802965ace16ca08f1e5257443341c628/jars/libs/liteavsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
